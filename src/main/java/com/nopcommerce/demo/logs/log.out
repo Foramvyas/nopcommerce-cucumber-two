@@ -1,0 +1,159 @@
+2021-06-26 23:06:561 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-26 23:06:282 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-26 23:06:281 INFO  HomePage :25 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (acbba7590523d2d08dcd3efe00cb7595)] -> link text: Log in]
+2021-06-26 23:06:321 INFO  LoginPage :57 - Getting text from : [[ChromeDriver: chrome on WINDOWS (acbba7590523d2d08dcd3efe00cb7595)] -> xpath: //div[@class='page-title']//h1]
+2021-06-27 18:06:299 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 18:06:403 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d8b9b352141de288da3cd2746f83be3e)] -> link text: Computers]
+2021-06-27 18:06:866 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (d8b9b352141de288da3cd2746f83be3e)] -> link text: Desktops]
+2021-06-27 18:06:413 INFO  ComputerPage :35 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (d8b9b352141de288da3cd2746f83be3e)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 18:06:463 INFO  ComputerPage :40 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (d8b9b352141de288da3cd2746f83be3e)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (d8b9b352141de288da3cd2746f83be3e)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (d8b9b352141de288da3cd2746f83be3e)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 19:06:865 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:613 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:52 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ea83d7926bb8f4a5e09c629b71c96444)] -> link text: Computers]
+2021-06-27 19:06:926 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (ea83d7926bb8f4a5e09c629b71c96444)] -> link text: Desktops]
+2021-06-27 19:06:254 INFO  ComputerPage :35 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (ea83d7926bb8f4a5e09c629b71c96444)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 19:06:955 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:385 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3068f22dbf0bb47510f0d4702d3f43aa)] -> link text: Computers]
+2021-06-27 19:06:582 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (3068f22dbf0bb47510f0d4702d3f43aa)] -> link text: Desktops]
+2021-06-27 19:06:435 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:293 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (13139ad87b9c96dc1ce32ae0cd374457)] -> link text: Computers]
+2021-06-27 19:06:458 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (13139ad87b9c96dc1ce32ae0cd374457)] -> link text: Desktops]
+2021-06-27 19:06:530 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:213 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ac32c133f27774a15c8258ec512d98b6)] -> link text: Computers]
+2021-06-27 19:06:921 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (ac32c133f27774a15c8258ec512d98b6)] -> link text: Desktops]
+2021-06-27 19:06:185 INFO  ComputerPage :35 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (ac32c133f27774a15c8258ec512d98b6)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 19:06:227 INFO  ComputerPage :40 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (ac32c133f27774a15c8258ec512d98b6)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (ac32c133f27774a15c8258ec512d98b6)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (ac32c133f27774a15c8258ec512d98b6)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 19:06:181 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:428 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (aa77de87dfdbda6b646c94dea8badd57)] -> link text: Computers]
+2021-06-27 19:06:781 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (aa77de87dfdbda6b646c94dea8badd57)] -> link text: Desktops]
+2021-06-27 19:06:533 INFO  ComputerPage :35 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (aa77de87dfdbda6b646c94dea8badd57)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 19:06:52 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:33 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c0de245de185a63772346accd930074b)] -> link text: Computers]
+2021-06-27 19:06:500 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (c0de245de185a63772346accd930074b)] -> link text: Desktops]
+2021-06-27 19:06:808 INFO  ComputerPage :35 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (c0de245de185a63772346accd930074b)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 19:06:853 INFO  ComputerPage :40 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (c0de245de185a63772346accd930074b)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (c0de245de185a63772346accd930074b)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (c0de245de185a63772346accd930074b)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 19:06:927 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 19:06:582 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b8db35e54a1658f9e343fe544ffea508)] -> link text: Computers]
+2021-06-27 19:06:699 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (b8db35e54a1658f9e343fe544ffea508)] -> link text: Desktops]
+2021-06-27 20:06:184 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:902 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4f3cbb524cfa37e3589eb207bc98fa49)] -> link text: Computers]
+2021-06-27 20:06:78 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (4f3cbb524cfa37e3589eb207bc98fa49)] -> link text: Desktops]
+2021-06-27 20:06:376 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:899 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (dc79bf21a34f54dd4614e1289cf1ad92)] -> link text: Computers]
+2021-06-27 20:06:51 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (dc79bf21a34f54dd4614e1289cf1ad92)] -> link text: Desktops]
+2021-06-27 20:06:884 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:490 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7531634ffc140a5911d0e0f7aa3444dc)] -> link text: Computers]
+2021-06-27 20:06:929 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (7531634ffc140a5911d0e0f7aa3444dc)] -> link text: Desktops]
+2021-06-27 20:06:263 INFO  ComputerPage :35 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (7531634ffc140a5911d0e0f7aa3444dc)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 20:06:306 INFO  ComputerPage :40 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (7531634ffc140a5911d0e0f7aa3444dc)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (7531634ffc140a5911d0e0f7aa3444dc)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (7531634ffc140a5911d0e0f7aa3444dc)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 20:06:409 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:408 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (994481ac4df98398442c87ebd2d8898a)] -> link text: Computers]
+2021-06-27 20:06:940 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (994481ac4df98398442c87ebd2d8898a)] -> link text: Desktops]
+2021-06-27 20:06:687 INFO  ComputerPage :35 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (994481ac4df98398442c87ebd2d8898a)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 20:06:270 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:585 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e9efe849add9be2a7495e79fb9ff1c7a)] -> link text: Computers]
+2021-06-27 20:06:787 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (e9efe849add9be2a7495e79fb9ff1c7a)] -> link text: Desktops]
+2021-06-27 20:06:85 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:31 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e2d553cd2ad32085aa11fb478c44d8b2)] -> link text: Computers]
+2021-06-27 20:06:151 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (e2d553cd2ad32085aa11fb478c44d8b2)] -> link text: Desktops]
+2021-06-27 20:06:488 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:650 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (77b095b35a2ce94156b14ba4383bd226)] -> link text: Computers]
+2021-06-27 20:06:822 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (77b095b35a2ce94156b14ba4383bd226)] -> link text: Desktops]
+2021-06-27 20:06:207 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:622 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7a7bbd97c6eb399ca44b98ca69a5c749)] -> link text: Computers]
+2021-06-27 20:06:743 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (7a7bbd97c6eb399ca44b98ca69a5c749)] -> link text: Desktops]
+2021-06-27 20:06:879 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:311 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3cd0287ac29bcb25091ef13bb8c47071)] -> link text: Computers]
+2021-06-27 20:06:434 INFO  ComputerPage :28 - Clicking on desktops link : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2021-06-27 20:06:936 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:83 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e1929f1fb76732c0070b31c46f08cb10)] -> link text: Computers]
+2021-06-27 20:06:169 INFO  ComputerPage :28 - Clicking on desktops link : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]'
+2021-06-27 20:06:303 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:139 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a23c347a26e6a3790ecd41bd82b8537f)] -> link text: Computers]
+2021-06-27 20:06:306 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (a23c347a26e6a3790ecd41bd82b8537f)] -> link text: Desktops]
+2021-06-27 20:06:20 INFO  ComputerPage :36 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (a23c347a26e6a3790ecd41bd82b8537f)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 20:06:74 INFO  ComputerPage :41 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (a23c347a26e6a3790ecd41bd82b8537f)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (a23c347a26e6a3790ecd41bd82b8537f)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (a23c347a26e6a3790ecd41bd82b8537f)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 20:06:285 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:265 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (52eeae06d9a8f67cf7c77a39e4094bca)] -> link text: Computers]
+2021-06-27 20:06:382 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (52eeae06d9a8f67cf7c77a39e4094bca)] -> link text: Desktops]
+2021-06-27 20:06:245 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:129 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (05a7ccdae40ff0d3b076570ef0e59443)] -> link text: Computers]
+2021-06-27 20:06:101 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (05a7ccdae40ff0d3b076570ef0e59443)] -> link text: Desktops]
+2021-06-27 20:06:425 INFO  ComputerPage :36 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (05a7ccdae40ff0d3b076570ef0e59443)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 20:06:484 INFO  ComputerPage :41 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (05a7ccdae40ff0d3b076570ef0e59443)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (05a7ccdae40ff0d3b076570ef0e59443)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (05a7ccdae40ff0d3b076570ef0e59443)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 20:06:455 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:246 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a724cea20c365e58481e3b8812b25ad2)] -> link text: Computers]
+2021-06-27 20:06:662 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (a724cea20c365e58481e3b8812b25ad2)] -> link text: Desktops]
+2021-06-27 20:06:939 INFO  ComputerPage :36 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (a724cea20c365e58481e3b8812b25ad2)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 20:06:395 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:434 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bc4d97bf5b760f99eb48197dd0ac442d)] -> link text: Computers]
+2021-06-27 20:06:636 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (bc4d97bf5b760f99eb48197dd0ac442d)] -> link text: Desktops]
+2021-06-27 20:06:188 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 20:06:610 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> link text: Computers]
+2021-06-27 20:06:911 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> link text: Desktops]
+2021-06-27 20:06:250 INFO  ComputerPage :36 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 20:06:435 INFO  BuildYourOwnComputerPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //div[@class='item-box'][1]//button[text()='Add to cart']]
+2021-06-27 20:06:654 INFO  BuildYourOwnComputerPage :57 - Verify User Navigate to Build your own Computer product page [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-27 20:06:445 INFO  BuildYourOwnComputerPage :64 - select the processor from drop down [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //select[@id='product_attribute_1']]
+2021-06-27 20:06:729 INFO  BuildYourOwnComputerPage :70 - select the Ram from drop down [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //select[@id='product_attribute_2']]
+2021-06-27 20:06:846 INFO  BuildYourOwnComputerPage :76 - click On Hdd from radio button [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //dd[@id='product_attribute_input_3']//label[text()='400 GB [+$100.00]']]
+2021-06-27 20:06:517 INFO  BuildYourOwnComputerPage :83 - Click on Os Radio from list[[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-06-27 20:06:236 INFO  BuildYourOwnComputerPage :90 - Click on MicrosoftOffice from checkbox [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //input[@id='product_attribute_5_10']]
+2021-06-27 20:06:362 INFO  BuildYourOwnComputerPage :96 - Click on Total Commander [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //input[@id='product_attribute_5_12' and @ name='product_attribute_5']]
+2021-06-27 20:06:397 INFO  BuildYourOwnComputerPage :100 - Verify  the total Price $1475.00 [[ChromeDriver: chrome on WINDOWS (15a2763c247f592a2d18f3134892611c)] -> xpath: //span[@id='price-value-1']]
+2021-06-27 21:06:199 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:111 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5293b30877720f318b444eb5c5fe4181)] -> link text: Computers]
+2021-06-27 21:06:789 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (5293b30877720f318b444eb5c5fe4181)] -> link text: Desktops]
+2021-06-27 21:06:169 INFO  ComputerPage :36 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (5293b30877720f318b444eb5c5fe4181)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 21:06:220 INFO  ComputerPage :41 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (5293b30877720f318b444eb5c5fe4181)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (5293b30877720f318b444eb5c5fe4181)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (5293b30877720f318b444eb5c5fe4181)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 21:06:506 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:483 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d5df37b74fde263a52224af7fc11d02c)] -> link text: Computers]
+2021-06-27 21:06:663 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (d5df37b74fde263a52224af7fc11d02c)] -> link text: Desktops]
+2021-06-27 21:06:498 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:398 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (85aa84d64c88d825a3773188af161383)] -> link text: Computers]
+2021-06-27 21:06:318 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (85aa84d64c88d825a3773188af161383)] -> link text: Desktops]
+2021-06-27 21:06:689 INFO  ComputerPage :36 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (85aa84d64c88d825a3773188af161383)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 21:06:736 INFO  ComputerPage :41 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (85aa84d64c88d825a3773188af161383)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (85aa84d64c88d825a3773188af161383)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (85aa84d64c88d825a3773188af161383)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 21:06:127 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:248 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (39b8f61e6ca268ee78dff2f40f3fe642)] -> link text: Computers]
+2021-06-27 21:06:446 INFO  ComputerPage :28 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (39b8f61e6ca268ee78dff2f40f3fe642)] -> link text: Desktops]
+2021-06-27 21:06:50 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:158 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fd20cccada8e5fe861fbdaaed76f8d5b)] -> link text: Computers]
+2021-06-27 21:06:390 INFO  ComputerPage :29 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (fd20cccada8e5fe861fbdaaed76f8d5b)] -> link text: Desktops]
+2021-06-27 21:06:179 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:379 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> link text: Computers]
+2021-06-27 21:06:848 INFO  ComputerPage :29 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> link text: Desktops]
+2021-06-27 21:06:184 INFO  ComputerPage :37 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //select[@name='products-orderby']]
+2021-06-27 21:06:325 INFO  BuildYourOwnComputerPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //div[@class='item-box'][1]//button[text()='Add to cart']]
+2021-06-27 21:06:490 INFO  BuildYourOwnComputerPage :57 - Verify User Navigate to Build your own Computer product page [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-27 21:06:290 INFO  BuildYourOwnComputerPage :64 - select the processor from drop down [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //select[@id='product_attribute_1']]
+2021-06-27 21:06:587 INFO  BuildYourOwnComputerPage :70 - select the Ram from drop down [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //select[@id='product_attribute_2']]
+2021-06-27 21:06:729 INFO  BuildYourOwnComputerPage :76 - click On Hdd from radio button [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //dd[@id='product_attribute_input_3']//label[text()='400 GB [+$100.00]']]
+2021-06-27 21:06:855 INFO  BuildYourOwnComputerPage :83 - Click on Os Radio from list[[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-06-27 21:06:65 INFO  BuildYourOwnComputerPage :90 - Click on MicrosoftOffice from checkbox [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //input[@id='product_attribute_5_10']]
+2021-06-27 21:06:211 INFO  BuildYourOwnComputerPage :96 - Click on Total Commander [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //input[@id='product_attribute_5_12' and @ name='product_attribute_5']]
+2021-06-27 21:06:255 INFO  BuildYourOwnComputerPage :100 - Verify  the total Price $1475.00 [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //span[@id='price-value-1']]
+2021-06-27 21:06:472 INFO  BuildYourOwnComputerPage :106 - Click add to cart [[ChromeDriver: chrome on WINDOWS (b3e722d8f25a4727cc18189110e4e108)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-06-27 21:06:842 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:311 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (54a3d96651895b31eef9f04dc64d7860)] -> link text: Computers]
+2021-06-27 21:06:876 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:144 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (91cf41b7621c0151b51de2d3b9011d4f)] -> link text: Computers]
+2021-06-27 21:06:218 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:522 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f13c030fc2e3d8c7f382f6bcf1ca6333)] -> link text: Computers]
+2021-06-27 21:06:724 INFO  ComputerPage :29 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (f13c030fc2e3d8c7f382f6bcf1ca6333)] -> link text: Desktops]
+2021-06-27 21:06:226 INFO  ComputerPage :37 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (f13c030fc2e3d8c7f382f6bcf1ca6333)] -> xpath: //select[@name='products-orderby']]
+2021-06-27 21:06:292 INFO  ComputerPage :42 - Get list of products : [[[ChromeDriver: chrome on WINDOWS (f13c030fc2e3d8c7f382f6bcf1ca6333)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (f13c030fc2e3d8c7f382f6bcf1ca6333)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (f13c030fc2e3d8c7f382f6bcf1ca6333)] -> xpath: //h2[@class='product-title']]]
+2021-06-27 21:06:593 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-27 21:06:861 INFO  HomePage :35 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> link text: Computers]
+2021-06-27 21:06:699 INFO  ComputerPage :29 - Clicking on desktops link : [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> link text: Desktops]
+2021-06-27 21:06:974 INFO  ComputerPage :37 - Select position from drop down :[[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //select[@name='products-orderby']]
+2021-06-27 21:06:113 INFO  BuildYourOwnComputerPage :51 - Click on add to cart button [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //div[@class='item-box'][1]//button[text()='Add to cart']]
+2021-06-27 21:06:548 INFO  BuildYourOwnComputerPage :57 - Verify User Navigate to Build your own Computer product page [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //h1[contains(text(),'Build your own computer')]]
+2021-06-27 21:06:370 INFO  BuildYourOwnComputerPage :64 - select the processor from drop down [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //select[@id='product_attribute_1']]
+2021-06-27 21:06:705 INFO  BuildYourOwnComputerPage :70 - select the Ram from drop down [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //select[@id='product_attribute_2']]
+2021-06-27 21:06:842 INFO  BuildYourOwnComputerPage :76 - click On Hdd from radio button [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //dd[@id='product_attribute_input_3']//label[text()='400 GB [+$100.00]']]
+2021-06-27 21:06:990 INFO  BuildYourOwnComputerPage :83 - Click on Os Radio from list[[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-06-27 21:06:196 INFO  BuildYourOwnComputerPage :90 - Click on MicrosoftOffice from checkbox [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //input[@id='product_attribute_5_10']]
+2021-06-27 21:06:348 INFO  BuildYourOwnComputerPage :96 - Click on Total Commander [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //input[@id='product_attribute_5_12' and @ name='product_attribute_5']]
+2021-06-27 21:06:380 INFO  BuildYourOwnComputerPage :100 - Verify  the total Price $1475.00 [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //span[@id='price-value-1']]
+2021-06-27 21:06:574 INFO  BuildYourOwnComputerPage :106 - Click add to cart [[ChromeDriver: chrome on WINDOWS (dd7d3e80e003a1f979f0b7cc0979aacc)] -> xpath: //button[@id='add-to-cart-button-1']]
